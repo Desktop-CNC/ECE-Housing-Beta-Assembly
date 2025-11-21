@@ -1,0 +1,3 @@
+[submodule "deps/Standard-CAD-Library"]
+	path = deps/Standard-CAD-Library
+	url = git@github.com:Desktop-CNC/Standard-CAD-Library.git
